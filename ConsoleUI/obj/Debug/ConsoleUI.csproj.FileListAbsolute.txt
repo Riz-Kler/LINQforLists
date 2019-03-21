@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\LINQforLists\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\User\source\repos\LINQforLists\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\User\source\repos\LINQforLists\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\User\source\repos\LINQforLists\ConsoleUI\bin\Debug\LINQ.exe
+C:\Users\User\source\repos\LINQforLists\ConsoleUI\bin\Debug\LINQ.pdb
+C:\Users\User\source\repos\LINQforLists\ConsoleUI\bin\Debug\LINQ.exe.config
+C:\Users\User\source\repos\LINQforLists\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\User\source\repos\LINQforLists\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LINQforLists\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+C:\Users\User\source\repos\LINQforLists\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\User\source\repos\LINQforLists\ConsoleUI\obj\Debug\ConsoleUI.pdb

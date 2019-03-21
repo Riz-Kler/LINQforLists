@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\LINQforLists\FormUI\bin\Debug\FormUI.exe.config
+C:\Users\User\source\repos\LINQforLists\FormUI\bin\Debug\FormUI.exe
+C:\Users\User\source\repos\LINQforLists\FormUI\bin\Debug\FormUI.pdb
+C:\Users\User\source\repos\LINQforLists\FormUI\bin\Debug\LINQ.exe
+C:\Users\User\source\repos\LINQforLists\FormUI\bin\Debug\LINQ.pdb
+C:\Users\User\source\repos\LINQforLists\FormUI\bin\Debug\LINQ.exe.config
+C:\Users\User\source\repos\LINQforLists\FormUI\obj\Debug\FormUI.csprojAssemblyReference.cache
+C:\Users\User\source\repos\LINQforLists\FormUI\obj\Debug\FormUI.Dashboard.resources
+C:\Users\User\source\repos\LINQforLists\FormUI\obj\Debug\FormUI.Properties.Resources.resources
+C:\Users\User\source\repos\LINQforLists\FormUI\obj\Debug\FormUI.csproj.GenerateResource.cache
+C:\Users\User\source\repos\LINQforLists\FormUI\obj\Debug\FormUI.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LINQforLists\FormUI\obj\Debug\FormUI.csproj.CopyComplete
+C:\Users\User\source\repos\LINQforLists\FormUI\obj\Debug\FormUI.exe
+C:\Users\User\source\repos\LINQforLists\FormUI\obj\Debug\FormUI.pdb
